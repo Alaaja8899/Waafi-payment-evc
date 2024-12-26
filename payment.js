@@ -1,5 +1,8 @@
 require('dotenv').config();
 
+
+// Fiiri comments ka hoose ee functionka preauthorizeAndCommit ku jira
+
 // keys loaded from .env file
 const MerchantUid = process.env.MERCHANT_UID;
 const ApiUserId = process.env.API_USER_ID;
